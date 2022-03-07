@@ -1,0 +1,2 @@
+Name   = "Schmidt"                
+Straße = "Albrecht-Dürer-Straße 8"

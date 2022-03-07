@@ -1,0 +1,13 @@
+{
+  "Ein Objekt": {
+    "Eins": 1,
+    "Zwei": 2,
+    "Drei": ["3"],
+    "Hinweis": "Etwas Text"
+  },
+  "array": ["Eins", 2, 3],
+  "string": " Zeichenketten-Beispiel ",
+  "true": true,
+  "false": false,
+  "null": null
+}
